@@ -1,6 +1,6 @@
 ### André Menezes
-[Linkedin](https://www.linkedin.com/in/andre-menezes-developer)
-Ful
+[Badge Linkedin Baged](https://www.linkedin.com/in/andre-menezes-developer)
+
 
 <!--
 **dedemenezes/dedemenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
