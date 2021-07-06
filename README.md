@@ -1,6 +1,8 @@
 ### André Menezes
-Badge Linkedin Baged(https://www.linkedin.com/in/andre-menezes-developer)
-![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
+[![http://linkedin.com/in/andre-menezes-developer](https://img.shields.io/badge/dedemenezes-blue?logo=linkedin&style=flat-square&color=blue)]()
+[![Waffle.io](https://img.shields.io/badge/dedemenezes-red?logo=gmail&style=flat-square&logoColor=white)]()
+
+[![Waffle.io]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})]()
 
 <!--
 **dedemenezes/dedemenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
