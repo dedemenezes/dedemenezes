@@ -1,5 +1,5 @@
 ### André Menezes
-[Badge Linkedin Baged](https://www.linkedin.com/in/andre-menezes-developer)
+Badge [Linkedin] Baged(https://www.linkedin.com/in/andre-menezes-developer)
 
 
 <!--
