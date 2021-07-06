@@ -26,6 +26,7 @@ I'm a *forever student* fullstack developer
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dedemenezes&layout=compact&bg_color=1A1B41&icon_color=baff29&title_color=f1ffe7&text_color=c2e7da)](https://github.com/anuraghazra/github-readme-stats)
 
 #### See you
+<img src="https://media.giphy.com/media/losUltlOnYUW4/giphy.gif" width="254px" height="150px">
 
 ![Waffle.io](https://img.shields.io/badge/dynamic/json?color=%231a1b41&label=Profile.%20created_at&query=created_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdedemenezes)
 
