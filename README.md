@@ -15,7 +15,6 @@ I'm a *forever student* fullstack developer
 ![Waffle.io](https://img.shields.io/badge/-ruby-CC0000?logo=ruby&logoColor=white)
 ![Waffle.io](https://img.shields.io/badge/-rails-900d0d?logo=ruby&logoColor=white)
 ![Waffle.io](https://img.shields.io/badge/-postgresql-4169E1?logo=postgresql&logoColor=white)
-![Waffle.io](https://img.shields.io/badge/-nodejs-339933?logo=node.js&logoColor=white)
 ![Waffle.io](https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=black)
 ![Waffle.io](https://img.shields.io/badge/-html5-E34F26?logo=html5&logoColor=white)
 ![Waffle.io](https://img.shields.io/badge/-css-1572B6?logo=css3&logoColor=white)
