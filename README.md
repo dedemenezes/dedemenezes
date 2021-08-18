@@ -9,6 +9,7 @@ I'm a *forever student* fullstack developer
 
 #### *Studying now*
 ![Waffle.io](https://img.shields.io/badge/-react-61DAFB?logo=react&logoColor=black)
+![Waffle.io](https://img.shields.io/badge/-solidity-363636?logo=solidity&logoColor=white)
 
 
 #### *Skills*
