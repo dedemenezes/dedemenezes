@@ -24,6 +24,7 @@ I'm a *forever student* fullstack developer
 ![Waffle.io](https://img.shields.io/badge/-heroku-430098?logo=heroku&logoColor=white)
 ![Waffle.io](https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white)
 
+[![https://www.codewars.com][ico-codewars]][url-codewars]
 
 #### *GitHub stats*
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dedemenezes&count_private=true&show_icons=true&bg_color=1A1B41&icon_color=baff29&title_color=f1ffe7&text_color=c2e7da)](https://github.com/anuraghazra/github-readme-stats)
@@ -57,3 +58,5 @@ Here are some ideas to get you started:
 [3]: https://twitter.com/dedemenezes_
 [4]: mailto:dev.andremenezes@gmail.com
 [5]: https://discord.com/users/824855867844853790
+[ico-codewars]: https://www.codewars.com/users/dedemenezes/badges/micro
+[url-codewars     ]: https://www.codewars.com/users/dedemenezes
