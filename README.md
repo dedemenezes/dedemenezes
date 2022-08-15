@@ -1,5 +1,5 @@
 ### André Menezes
-Fullstack Developer & Teacher @ Le Wagon
+Rubyist, Fullstack Developer & Teacher @ Le Wagon
 
 [![Waffle.io](https://img.shields.io/badge/Feel-0A66C2?logo=linkedin&color=blue)][1]
 [![Waffle.io](https://img.shields.io/badge/free-25D366?logo=whatsapp&logoColor=white)][2]
@@ -7,8 +7,10 @@ Fullstack Developer & Teacher @ Le Wagon
 [![Waffle.io](https://img.shields.io/badge/contact-EA4335?logo=gmail&logoColor=white)][4]
 [![Waffle.io](https://img.shields.io/badge/me-5865F2?logo=discord&logoColor=white)][5]
 
+<!--
 #### *Studying now*
 ![Waffle.io](https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=black)
+-->
 
 #### *Studying forever*
 ![Waffle.io](https://img.shields.io/badge/-rails-900d0d?logo=ruby&logoColor=white)
